@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antonpry
-- 👀 I’m interested in SWIFT and PYTHON
-- 🌱 I’m currently learning SWIFT and PYTHON
-- 💞️ I’m looking to collaborate on SWIFT and PYTHON programming
+- 👀 I’m interested in SWIFT, JAVA and PYTHON
+- 🌱 I’m currently learning SWIFT and JAVA
+- 💞️ I’m looking to collaborate on SWIFT and JAVA programming
 - 📫 How to reach me antonpry@gmail.com
 
 <!---
